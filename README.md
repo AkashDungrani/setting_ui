@@ -1,16 +1,3 @@
 # settingpage
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="475" alt="Screenshot 2023-01-19 at 10 52 57 AM" src="https://user-images.githubusercontent.com/121867955/213438915-808731b9-23eb-48ea-bb04-6e2b9e0b30aa.png">
+<img width="475" alt="Screenshot 2023-01-19 at 10 53 07 AM" src="https://user-images.githubusercontent.com/121867955/213438932-c5023e6c-37d6-4c15-8c1c-3b5d47501065.png">
